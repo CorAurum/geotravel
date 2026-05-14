@@ -1,4 +1,4 @@
-package com.geotravel.geotravel;
+package com.geotravel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
